@@ -1,0 +1,2 @@
+//lists all inn school collection.
+db.school.find()
