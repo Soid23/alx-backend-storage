@@ -1,2 +1,2 @@
 //lists a MongoDB.
-show db
+show dbs
